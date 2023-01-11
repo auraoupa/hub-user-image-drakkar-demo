@@ -21,6 +21,8 @@ dependencies:
   - intake=0.6.5
   - xrft
   - intake
+  - intake-xarray
+  - numpy_groupies
   - cmocean
   - gcm_filters
   - aiohttp
