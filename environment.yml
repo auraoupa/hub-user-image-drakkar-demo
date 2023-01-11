@@ -13,4 +13,12 @@ dependencies:
   # Everyone wants to use nbgitpuller for everything, so let's do that
   - nbgitpuller=1.1.*
   # Add other packages here
-  # -
+  - numpy=1.22.4
+  - xarray=2022.3.0
+  - scipy=1.8.1
+  - matplotlib=3.5.2
+  - intake=0.6.5
+  - xrft
+  - intake
+  - cmocean
+  - gcm_filters
