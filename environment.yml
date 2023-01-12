@@ -27,3 +27,4 @@ dependencies:
   - gcm_filters
   - aiohttp
   - requests
+  - s3fs
