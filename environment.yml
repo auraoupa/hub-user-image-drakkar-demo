@@ -20,6 +20,7 @@ dependencies:
   - zarr=2.11.3
   - intake=0.6.5
   - xrft
+  - xhistogram
   - intake
   - intake-xarray
   - numpy_groupies
